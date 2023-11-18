@@ -1,0 +1,22 @@
+.series
+{
+    background-color: #000000;
+    padding: 50px 100px;
+}
+.box
+{
+    background-color: #ffffff;
+    padding: 10px 20px;
+}
+.text-center{
+    color: #ffffff;
+    text-decoration: solid;
+}
+@media screen and (max-width:600px)
+{
+    .course
+{
+    background-color: #eff6ff;
+    padding: 50px 10px;
+}
+}
